@@ -1903,7 +1903,7 @@ footer .container .section.four {
   }
   .container-fluid.secondary-bg-section.services {
     margin: -25px auto 0;
-    padding: 55px 20px 46px;
+    padding: 55px 20px 72px;
   }
   .container-fluid.secondary-bg-section.services::after {
     left: 0;
@@ -1948,7 +1948,7 @@ footer .container .section.four {
     z-index: 1;
   }
   .container-fluid.secondary-bg-section.services .slick-dots {
-    top: -6px;
+    top: 21px;
   }
   .container-fluid.primary-bg-section.about {
     padding: 58px 6px 10px;
